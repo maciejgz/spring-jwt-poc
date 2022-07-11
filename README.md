@@ -1,3 +1,6 @@
+## Description
+Simple POC of the Spring Boot JWT authentication without using spring-authorization-server. Authentication and authroization base on filters.
+
 ## Installation:
 1. Run docker compose mariadb instance from `/docker/spring-jwt.yml`
 
